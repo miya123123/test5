@@ -1,0 +1,11 @@
+body{
+    text-align: center;
+    font-size: 30px;
+}
+p{
+    font-weight: bold;
+}
+
+#input input{
+    font-size: 30px;
+}
